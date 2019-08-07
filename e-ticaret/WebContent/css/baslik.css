@@ -1,0 +1,36 @@
+.baslik{
+<div class="container-center" >
+  <div class="jumbotron" style="background-color:#CD5C5C">
+    <h1 align="center" style="font-family:algerian;">AKSET</h1>      
+    
+   <form class="navbar-form navbar-right" action="/action_page.php">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search" name="search">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+    
+    <nav class="navbar navbar-inverse">
+       <div class="container-fluid">
+         <div class="navbar-header">
+           <a class="navbar-brand" href="#">#</a>
+         </div>
+         <ul class="nav navbar-nav" >
+           <li class="active"><a href="#">Home</a></li>
+           <li><a href="#">buz dolabi</a></li>
+           <li><a href="#">bulasik makinesi</a></li>
+           <li><a href="#">camasir makinesi</a></li>
+           <li><a href="#">firin</a></li>
+           <li><a href="#">set ustu</a></li>
+           <li><a href="#">kurutma makineleri</a></li>
+           <li><a href="#">derin dondurucu</a></li>
+         </ul>
+       </div>
+    </nav>
+  </div> 
+</div>
+}

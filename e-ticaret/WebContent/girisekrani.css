@@ -1,0 +1,62 @@
+body {
+    font-family: "Lato", sans-serif;
+    margin-top:20px;
+    background-color: #87EEEC;
+    }
+ .giristab{
+     border:4px solid LightSteelBlue   ;
+     border-radius:7px;
+     padding-left:15px;
+     background-color:#E4EEF0;
+     padding-top:10px;
+    
+    }
+#mySidenav a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#kat1 {
+    top: 55px;
+    background-color: #7F7674;
+}
+
+#kat2{
+    top: 100px;
+    background-color: #FFAC9C;
+}
+
+#kat3{
+    top: 150px;
+    background-color: #CCBDBA;
+}
+
+#kat4 {
+    top: 200px;
+    background-color: #7F564E;
+}
+#kat5{
+    top: 245px;
+    background-color: #E3BAB3;
+}
+
+#kat6{
+    top: 295px;
+    background-color: #57405E;
+}
+
+#kat7 {
+    top: 340px;
+    background-color: #36384C
+}
