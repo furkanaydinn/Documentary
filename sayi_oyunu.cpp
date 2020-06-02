@@ -151,7 +151,7 @@ void sayial(int i ){ //kullanıcının her bir adımında üreteceği sayının 
 			printf("\n		******** hatali bir giris yaptiniz ********");
 			goto sayial;
 			}
-	                //herbir üretilen sayının rakamları ilgili basamak değerlerine böl ve girilen sayının indislerine eşitle
+	                //herbir üretilen sayının rakamlarını ilgili basamak değerlerine böl ve girilen sayının indislerine eşitle
 			girilen[0]=tahmin/1000;                              
 			girilen[1]=(tahmin/100)%10;    
 			girilen[2]=(tahmin/10)%10;     
