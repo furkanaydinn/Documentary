@@ -1,7 +1,7 @@
 /*Bu program bir sayi tahmin  oyunudur.Oyunumuz şu şekildedir sayılarımız rastgele üretilir ve oyunucunun bu sayıyı bilmesi istenir.
 Oyuncunun girdiği sayılara karşılık,oyun içinde her bir adımda girilen rakamların ne kadarının doğru girildiğini ve
 tahmin edilen sayının girilen rakamlarının ne kadarının doğru ve yanlış yerde bulunduğuna dair bilgiler veriyor.
-Ve oyun sonunda doğru,yanlış,ve kullanılan hak durumuna göre bir puan elde ediliyor.
+Ve oyun sonunda doğru,yanlış ve kullanılan hak durumuna göre bir puan elde ediliyor.
 */
 
 #include<stdio.h>
